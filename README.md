@@ -48,12 +48,3 @@ The dataset used in this analysis includes daily updates on:
 
 ---
 
-## 🚀 How to Use This Project
-
-### 🔧 Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://
-# covid-19-Analysis
