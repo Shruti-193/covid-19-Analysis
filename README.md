@@ -38,19 +38,6 @@ The dataset used in this analysis includes daily updates on:
 
 ---
 
-## 📊 Key Visualizations
-
-### 🌍 Global Daily Cases Trend
-![Plot 1](graph_images/plot_1.png)
-
-### 📈 Country-wise Comparisons
-![Plot 2](graph_images/plot_2.png)
-
-### 💉 Vaccination Progress
-![Plot 3](graph_images/plot_3.png)
-
----
-
 ## 🛠️ Tools and Libraries Used
 
 - **Python 3**
